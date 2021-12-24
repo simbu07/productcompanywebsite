@@ -130,8 +130,8 @@ product coding
             <div class="productitems">
               <div class="productitem"> 
                   <div class="itemimage">
-                  <img src="img/a1.jpg" alt="product image">
-                  </div>
+                   <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-gallery3-20201110?wid=2000&amp;hei=1536&amp;fmt=jpeg&amp;qlt=95&amp;.v=1632937845000" alt="" height="1536" width="2000" data-scale-params-2="wid=4000&amp;hei=3072&amp;fmt=jpeg&amp;qlt=95&amp;.v=1632937845000" data-ase-gallery="gallery" data-ase-click="next">
+                   </div>
                   <div class="itemname">mac book pouch</div>
                   <div class="itemprice">Price: Rs.3,250.00 </div>
               </div>
