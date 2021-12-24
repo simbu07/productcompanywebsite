@@ -282,10 +282,7 @@ contact coding
 
 
 ## OUTPUT:
-![git log](./pa.png)
-![git log]()
-![git log]()
-![git log]()
+![pa](https://user-images.githubusercontent.com/94525786/147331485-9f4f8625-68c6-4de6-8bc8-89e8855c79bb.png)
 
 ### Home Page:
 
