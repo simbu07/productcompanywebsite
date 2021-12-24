@@ -4,7 +4,7 @@
 }
 body {
   background-color: whitesmoke;
-  color: #17421d;
+  color: black;
 }
 .container {
   width: 1080px;
@@ -13,6 +13,7 @@ body {
   border-width: 1px 1px 1px 1px;
   border-style: solid;
   box-shadow: 15px 15px 8px gray;
+  background-image: url('/img/sum.png');
 }
 
 .banner {
@@ -20,12 +21,13 @@ body {
   width: 100%;
   height: 250px;
   text-align: center;
-  font-size: 60px;
-  background-image: url("/static/img/banner1.jpg");
+  font-size: 40px;
+  background-color: grey;
+  background-image: url('static/image/sum.png');
   background-size: 100% 100%;
   margin: 0px 0px 0px 0px;
-  padding-top: 150px;
-  color: #16d1ae;
+  padding-top: 110px;
+  color: #fefffe;;
 }
 
 .menu {
@@ -33,7 +35,7 @@ body {
   width: 100%;
   height: 50px;
   font-size: larger;
-  background-color: #5bb045;
+  background-color: #DC94E6;
   text-align: center;
   padding-top: 15px;
   margin: 0px 0px 0px 0px;
@@ -60,7 +62,7 @@ body {
 .content {
   display: block;
   width: 100%;
-  background-color: #cffffd;
+  background-color: #82bbff;
   min-height: 500px;
   margin: 0px 0px 0px 0px;
   border-width: 1px;
@@ -129,9 +131,12 @@ body {
   display: block;
   width: 100%;
   height: 40px;
-  background-color: #5bb045;
+  background-color: #DC94E6;
   text-align: center;
   padding-top: 10px;
   margin: 0px 0px 0px 0px;
   color: #9c1018;
+}
+.contact_body{
+  height: 100%;
 }
