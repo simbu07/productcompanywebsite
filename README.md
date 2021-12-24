@@ -35,7 +35,9 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 Home coding
+
 <html>
 <html lang="en">
  <head>
@@ -102,7 +104,7 @@ of an audience as possible.
  </div>
  </body>
 </html>
-
+```
 product coding
 <!DOCTYPE html>
 <html lang="en">
