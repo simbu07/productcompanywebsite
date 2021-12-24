@@ -105,6 +105,7 @@ of an audience as possible.
  </body>
 </html>
 ```
+```
 product coding
 <!DOCTYPE html>
 <html lang="en">
@@ -212,6 +213,8 @@ product coding
     </div>
   </body>
 </html>
+```
+```
 people coding
 <!DOCTYPE html>
 <html lang="en">
@@ -279,8 +282,49 @@ people coding
     </div>
   </body>
 </html>
-
+```
+```
 contact coding
+<!DOCTYPE  html>
+<html>
+<head>
+<title> GRABBIFY TECHNOLOGIES INDIA PRIVATE LIMITED.</title>
+<link  rel="stylesheet"  href="./css/layout.css"  />
+<link  rel="icon" href="./img/icon.jpg"  type="image/x-icon" />
+</head>
+<body>
+<div  class="container">
+<div  class="banner"> GRABBIFY TECHNOLOGIES INDIA PRIVATE LIMITED </div>
+<div  class="menu">
+<div  class="menuitem"><a  href="./home.html">Home</a></div>
+<div  class="menuitem"><a  href="./products.html">Products</a></div>
+<div  class="menuitem"><a  href="./people.html">People</a></div>
+<div  class="menuitemselected"><a  href="./contacts.html">Contact  Us</a>
+</div>
+</div>
+<div  class="content">
+<div  class="homecontent">
+<h1><b><u>contact  us</u></b></h1>
+<p><h4>Mail  us  at  :  GRABBIFYTECHNOLOGIES@gmail.com</h4></p>
+<p><h4>Call  us  at  :  55788906435</h4></p>
+<p><h4>302, PM&BS Square  Road Number 10, Madhapur Hyderabad 500008.</h4></p>
+
+</div>
+</div>
+
+
+</div>
+<div class="footer">
+Copyright  &#169;  2021 > GRABBIFY TECHNOLOGIES INDIA PRIVATE LIMITED,  Developed  by  Silambarasan K.
+</div>
+</div>
+</body>
+</html>
+
+</body>
+
+</html>
+```
 
 
 ## OUTPUT:
