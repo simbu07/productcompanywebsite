@@ -283,6 +283,10 @@ contact coding
 
 ## OUTPUT:
 ![pa](https://user-images.githubusercontent.com/94525786/147331485-9f4f8625-68c6-4de6-8bc8-89e8855c79bb.png)
+           ![p2](https://user-images.githubusercontent.com/94525786/147331587-7cfd19d2-d8d2-4337-9732-f8fa61b502bc.png)
+
+![p3](https://user-images.githubusercontent.com/94525786/147331594-c96392ea-186d-4c24-9b13-653028d31b16.png)
+![p4](https://user-images.githubusercontent.com/94525786/147331606-655a6f69-3765-4ed5-9e9a-a8549b94c3cc.png)
 
 ### Home Page:
 
